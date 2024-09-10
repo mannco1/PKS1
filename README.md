@@ -1,16 +1,9 @@
-# flutter_application_1
+# Группа: ЭФБО-02-22 
+# Мудрицын Михаил Евгеньевич
 
-A new Flutter project.
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/82653fcc-ab95-4b63-8639-6d537a9d4658)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/b979125e-887c-450e-ae94-ce9be65ad198)
